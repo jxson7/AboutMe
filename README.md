@@ -1,4 +1,7 @@
-Hi 👋 My name is Jason Dookarun ===============================  Final Year Computer Science Student at University of Reading ------------------------------------------------------------  * 🌍  I'm based in Reading, UK * ✉️  You can contact me at [jasondookarun98@gmail.com](mailto:jasondookarun98@gmail.com)
+## Hi 👋 My name is Jason Dookarun 
+## Final Year Computer Science Student at University of Reading
+### 🌍  I'm based in Reading, UK
+### ✉️  You can contact me at [jasondookarun98@gmail.com](mailto:jasondookarun98@gmail.com)
 
 <a href="https://www.twitter.com/jxson7_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/jxson7_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
