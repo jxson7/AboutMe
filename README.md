@@ -1,23 +1,25 @@
+![MasterHead](https://www.passionateinmarketing.com/wp-content/uploads/2021/08/data_analytics_banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">A Passionate Data Scientist Studying MSc Data Science</h3>
+<h3 align="center">A passionate Data Scientist studying MSc Data Science</h3>
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxson7&label=Profile%20views&color=0e75b6&style=flat" alt="jxson7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jxson7" alt="jxson7" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jxson7_" target="blank"><img src="https://img.shields.io/twitter/follow/jxson7_?logo=twitter&style=for-the-badge" alt="jxson7_" /></a> </p>
 
 - 🔭 I’m currently working on [Weather Application](https://github.com/jxson7/iOS-Weather-Application)
 
-- 🌱 I’m currently learning **SwiftUI, Data Science Tools and Data Science theory and application**
+- 🌱 I’m currently learning **SwiftUI, Data Science Tools and Data Science Theory**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jxson7](https://github.com/jxson7)
 
-- 💬 Ask me about **Tableau, PowerBI, KNIME**
+- 💬 Ask Me About **Tableau, PowerBI, KNIME**
 
-- 📫 How to reach me **jason.dookarun@live.co.uk**
+- 📫 Reach Me At: **jason.dookarun@live.co.uk**
 
-- ⚡ Fun fact **I run my own F1 podcast**
+- ⚡ Fun Fact: **I run my own F1 podcast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
