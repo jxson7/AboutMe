@@ -1,7 +1,7 @@
 ![MasterHead](https://www.passionateinmarketing.com/wp-content/uploads/2021/08/data_analytics_banner.png)
 
 
-<h1 align="center">Hi 👋, I'm Jason</h1>
+<h1 align="center">Hi 👋, I'm Jason Dookarun </h1>
 <h3 align="center">A Passionate Data Scientist Studying MSc Data Science</h3>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
