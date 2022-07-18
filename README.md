@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">A passionate Data Scientist studying MSc Data Science</h3>
+<h3 align="center">A Passionate Data Scientist Studying MSc Data Science</h3>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxson7&label=Profile%20views&color=0e75b6&style=flat" alt="jxson7" /> </p>
