@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/jxson7_" target="blank"><img src="https://img.shields.io/twitter/follow/jxson7_?logo=twitter&style=for-the-badge" alt="jxson7_" /></a> </p>
 
-- 🔭 I’m currently working on [Weather Application](https://github.com/jxson7/iOS-Weather-Application)
+- 🔭 I’m currently working on [iOS To-Do List Application](https://github.com/jxson7/ToDoList-App)
+
+- 📝 I recently completed my [iOS Weather Application](https://github.com/jxson7/iOS-Weather-Application)
 
 - 🌱 I’m currently learning **SwiftUI, Data Science Tools and Data Science Theory**
 
