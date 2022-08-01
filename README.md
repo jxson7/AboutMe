@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/jxson7_" target="blank"><img src="https://img.shields.io/twitter/follow/jxson7_?logo=twitter&style=for-the-badge" alt="jxson7_" /></a> </p>
 
-- 🔭 I’m currently working on [A Fitness Application UI in Sketch](https://github.com/jxson7/Fitness-Application-UI)
+- 🔭 I’m currently working on [Uber Clone 2.0 Application in React](https://github.com/jxson7/Uber-Clone-Application)
 
-- 📝 I recently completed my [Visa Token Virtual Experience](https://github.com/jxson7/Visa-Token-Service-Virtual-Experience)
+- 📝 I recently completed my [A Fitness Application UI in Sketch](https://github.com/jxson7/Fitness-Application-UI)
 
-- 🌱 I’m currently learning **SwiftUI, Sketch, Figma, Data Science Tools and Data Science Theory**
+- 🌱 I’m currently learning **React, SwiftUI, Sketch, Figma, Data Science Tools and Data Science Theory**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jxson7](https://github.com/jxson7)
 
