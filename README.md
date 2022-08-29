@@ -9,9 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/jxson7_" target="blank"><img src="https://img.shields.io/twitter/follow/jxson7_?logo=twitter&style=for-the-badge" alt="jxson7_" /></a> </p>
 
-- 🔭 I’m currently working on [Uber Clone 2.0 Application in React](https://github.com/jxson7/Uber-Clone-Application)
+- 🔭 I’m currently working on [Signal Clone 2.0 Application in React](https://github.com/jxson7/signal-clone)
 
-- 📝 I recently completed my [A Fitness Application UI in Sketch](https://github.com/jxson7/Fitness-Application-UI)
+
+
+- 📝 I recently completed my [Uber Clone Application in React](https://github.com/jxson7/Uber-Clone-Application)
 
 - 🌱 I’m currently learning **React, SwiftUI, Sketch, Figma, Data Science Tools and Data Science Theory**
 
