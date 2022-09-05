@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/jxson7_" target="blank"><img src="https://img.shields.io/twitter/follow/jxson7_?logo=twitter&style=for-the-badge" alt="jxson7_" /></a> </p>
 
-- 🔭 I’m currently working on [Signal Clone 2.0 Application in React](https://github.com/jxson7/signal-clone)
+- 🔭 I’m currently working on [Crypto Lottery Draw in React, using ThirdWeb](https://github.com/jxson7/Crypto-Lottery)
 
 
 
