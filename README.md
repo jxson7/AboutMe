@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/jxson7_" target="blank"><img src="https://img.shields.io/twitter/follow/jxson7_?logo=twitter&style=for-the-badge" alt="jxson7_" /></a> </p>
 
-- 🔭 I’m currently working on [Crypto Lottery Draw in React, using ThirdWeb](https://github.com/jxson7/Crypto-Lottery)
+- 🔭 I’m currently working on [Signal Communication Clone in React](https://github.com/jxson7/Signal-Clone)
 
 
 
-- 📝 I recently completed my [Uber Clone Application in React](https://github.com/jxson7/Uber-Clone-Application)
+- 📝 I recently completed my [Crypto Lottery Draw in React, using Next.js](https://github.com/jxson7/Crypto-Lottery)
 
-- 🌱 I’m currently learning **React, SwiftUI, Sketch, Figma, Data Science Tools and Data Science Theory**
+- 🌱 I’m currently learning **React, SwiftUI, Next.js, Figma, Data Science Tools and Data Science Theory**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jxson7](https://github.com/jxson7)
 
