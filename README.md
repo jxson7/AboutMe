@@ -37,6 +37,9 @@
 
 </p>
 
+<h3 align="left">Fun Stats:</h3>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jxson7&show_icons=true&locale=en&layout=compact&theme=dark" alt="jxson7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jxson7&show_icons=true&locale=en&theme=dark" alt="jxson7" /></p>
