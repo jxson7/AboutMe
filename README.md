@@ -42,11 +42,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jxson7&show_icons=true&locale=en" alt="jxson7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jxson7&theme=default" alt="jxson7" /></p>
-
-
----
-
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
