@@ -23,7 +23,7 @@
 
 - 📫 Reach Me At: **jason.dookarun@live.co.uk**
 
-- ⚡ Fun Fact: **I run an [F1 podcast](https://anchor.fm/paddock-buzz-podcast)**
+- ⚡ Fun Fact: **I run an [F1 podcast](https://anchor.fm/the-paddock-buzz)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
